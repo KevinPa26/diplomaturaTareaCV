@@ -1,0 +1,24 @@
+.row{
+    width: 100%;
+    display: flex;
+    flex-wrap: row wrap;
+    margin: 5px;
+}
+
+.col-12{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+}
+
+.col-6{
+    width: 50%;
+}
+
+.border{
+    padding: 10px;
+    border: 2px solid #000;
+    border-radius: 25px;
+}
