@@ -24,5 +24,10 @@
 }
 
 body{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Roboto', sans-serif;
+    background: linear-gradient(to bottom, skyblue, white);
+}
+
+img{
+    border-radius: 25px;
 }
